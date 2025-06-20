@@ -232,9 +232,3 @@ const renderloop = () => {
 }
 
 renderloop()
-
-// const fog = new THREE.Fog('white',1,10)
-// scene.fog = fog
-// scene.background = new THREE.Color("")
-// const axes = new THREE.AxesHelper(1000)
-// scene.add(axes)
