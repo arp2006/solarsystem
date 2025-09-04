@@ -26,6 +26,8 @@ https://solarsystem-8bwyvioh9-adityaraj-pandas-projects.vercel.app
    ```bash
    git clone https://github.com/yourusername/solar-system-threejs.git
    cd solar-system-threejs
-2. Run npm run dev in the folders terminal
-3. 
-   
+2. Install node modules
+   ```bash
+   npm i 
+3. ```bash
+   npm run dev 
