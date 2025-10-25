@@ -24,7 +24,7 @@ https://solarsystem-8bwyvioh9-adityaraj-pandas-projects.vercel.app
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/solar-system-threejs.git
+   git clone https://github.com/arp2006/solarsystem.git
    cd solar-system-threejs
 2. Install node modules
    ```bash
