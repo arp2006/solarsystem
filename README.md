@@ -2,7 +2,7 @@
 This project is a 3D simulation of the solar system built using Three.js. It includes all major planets, their realistic orbits, scaled sizes and distances, as well as basic lighting and camera controls. Saturn and Uranus have rings, and Earth includes a revolving moon.
 
 ## Deployed at below link
-https://solarsystem-8bwyvioh9-adityaraj-pandas-projects.vercel.app
+https://solarsystem-eight-rho.vercel.app/
 
 ## Features
 
